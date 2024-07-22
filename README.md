@@ -1,5 +1,10 @@
 <h1>Hi, I'm Gervaisson! <br/><a href="https://www.linkedin.com/in/gvpluviose/">Cloud and Security Professional</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Azure/Cloud Projects</b>
+  - [Creating a Live SOC/Honeynet)](https://github.com/gvpluviose/Cloud-SOC)
+
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Linux</b>
@@ -11,7 +16,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Azure</b>
+- <b>Azure/Cloud Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
