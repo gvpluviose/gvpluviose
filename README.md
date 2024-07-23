@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
-  - [Creating a Live SOC/Honeynet)](https://github.com/gvpluviose/Cloud-SOC)
+  - [Creating a Live SOC/Honeynet](https://github.com/gvpluviose/Cloud-SOC)
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
