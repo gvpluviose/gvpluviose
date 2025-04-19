@@ -1,9 +1,17 @@
-<h1>Hi, I'm Gervaisson! <br/><a href="https://www.linkedin.com/in/gvpluviose/">Cloud and Security Professional</a>
+# <a href="https://www.linkedin.com/in/gvpluviose/">Gervaisson Pluviose</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I’m deeply passionate about cybersecurity and cloud technologies, and I thrive on solving complex challenges through practical, hands-on projects. Whether it’s vulnerability management, threat detection, or securing cloud infrastructure, my work reflects a commitment to staying ahead in the ever-evolving security landscape. Feel free to explore my projects to see how I’m contributing to more secure and resilient systems.
 
-- <b>Azure/Cloud Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/gvpluviose/Cloud-SOC)
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Creating a Live SOC/Honeynet in Azure](https://github.com/gvpluviose/Cloud-SOC)**
+
+<hr/>
 
 
 <h2> 🤳 Connect with me:</h2>
