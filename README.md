@@ -8,7 +8,6 @@ I’m deeply passionate about cybersecurity and cloud technologies, and I thrive
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/gvpluviose/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/gvpluviose/threat-hunting-scenario-tor)**
 - **[Creating a Live SOC/Honeynet in Azure](https://github.com/gvpluviose/Cloud-SOC)**
 
 <hr/>
